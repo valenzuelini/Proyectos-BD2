@@ -1,0 +1,31 @@
+base,k,pregunta,ms
+chromadb,3,puedo consultar gratis mi historial crediticio,0.9484000038355589
+chromadb,3,que debe hacer el usuario antes de firmar un contrato,0.8396999910473824
+chromadb,3,la institucion debe atender mis reclamos,0.8316000457853079
+chromadb,3,como evitar el sobreendeudamiento,0.9850000496953726
+chromadb,3,que informacion debe darme el banco sobre mis cuentas,1.0221998672932386
+chromadb,3,quien supervisa a las instituciones financieras,1.1084000580012798
+chromadb,3,puedo pedir una copia de mi contrato,0.995999900624156
+chromadb,3,como proteger mis datos personales,1.0099001228809357
+chromadb,3,que hago si cobran comisiones no informadas,1.024800119921565
+chromadb,3,derechos del usuario financiero,1.0939999483525753
+chromadb,5,puedo consultar gratis mi historial crediticio,0.9754998609423637
+chromadb,5,que debe hacer el usuario antes de firmar un contrato,0.9174998849630356
+chromadb,5,la institucion debe atender mis reclamos,0.8988999761641026
+chromadb,5,como evitar el sobreendeudamiento,0.9397999383509159
+chromadb,5,que informacion debe darme el banco sobre mis cuentas,0.9743999689817429
+chromadb,5,quien supervisa a las instituciones financieras,1.1262001935392618
+chromadb,5,puedo pedir una copia de mi contrato,1.0259998962283134
+chromadb,5,como proteger mis datos personales,1.0800000745803118
+chromadb,5,que hago si cobran comisiones no informadas,0.9829001501202583
+chromadb,5,derechos del usuario financiero,0.8082999847829342
+chromadb,10,puedo consultar gratis mi historial crediticio,0.9058001451194286
+chromadb,10,que debe hacer el usuario antes de firmar un contrato,0.8656000718474388
+chromadb,10,la institucion debe atender mis reclamos,0.8147999178618193
+chromadb,10,como evitar el sobreendeudamiento,0.8877001237124205
+chromadb,10,que informacion debe darme el banco sobre mis cuentas,0.9140998590737581
+chromadb,10,quien supervisa a las instituciones financieras,0.9492000099271536
+chromadb,10,puedo pedir una copia de mi contrato,0.9516000282019377
+chromadb,10,como proteger mis datos personales,0.8622000459581614
+chromadb,10,que hago si cobran comisiones no informadas,0.8733000140637159
+chromadb,10,derechos del usuario financiero,0.8882000111043453

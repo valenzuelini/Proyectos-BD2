@@ -1,0 +1,31 @@
+base,k,pregunta,ms
+pgvector,3,puedo consultar gratis mi historial crediticio,0.8149999193847179
+pgvector,3,que debe hacer el usuario antes de firmar un contrato,0.7440999615937471
+pgvector,3,la institucion debe atender mis reclamos,0.7517000194638968
+pgvector,3,como evitar el sobreendeudamiento,0.686099985614419
+pgvector,3,que informacion debe darme el banco sobre mis cuentas,0.766900135204196
+pgvector,3,quien supervisa a las instituciones financieras,0.8153000380843878
+pgvector,3,que hago si veo un cargo en mi tarjeta que yo no hice,0.7346998900175095
+pgvector,3,como debe avisarme el banco de una compra sospechosa con mi tarjeta,0.6816999521106482
+pgvector,3,que significa tarjeta de debito,0.6981999613344669
+pgvector,3,cuanto plazo tienen los bancos para adecuarse a estos lineamientos,0.6944001652300358
+pgvector,5,puedo consultar gratis mi historial crediticio,0.6419001147150993
+pgvector,5,que debe hacer el usuario antes de firmar un contrato,0.6856999825686216
+pgvector,5,la institucion debe atender mis reclamos,0.7406999357044697
+pgvector,5,como evitar el sobreendeudamiento,0.695499824360013
+pgvector,5,que informacion debe darme el banco sobre mis cuentas,0.6742998957633972
+pgvector,5,quien supervisa a las instituciones financieras,0.6772999186068773
+pgvector,5,que hago si veo un cargo en mi tarjeta que yo no hice,0.7475998718291521
+pgvector,5,como debe avisarme el banco de una compra sospechosa con mi tarjeta,0.6444999016821384
+pgvector,5,que significa tarjeta de debito,0.7189998868852854
+pgvector,5,cuanto plazo tienen los bancos para adecuarse a estos lineamientos,0.681599834933877
+pgvector,10,puedo consultar gratis mi historial crediticio,0.6659999489784241
+pgvector,10,que debe hacer el usuario antes de firmar un contrato,0.6526000797748566
+pgvector,10,la institucion debe atender mis reclamos,0.7168999873101711
+pgvector,10,como evitar el sobreendeudamiento,0.7201998960226774
+pgvector,10,que informacion debe darme el banco sobre mis cuentas,0.690799904987216
+pgvector,10,quien supervisa a las instituciones financieras,0.7021001074463129
+pgvector,10,que hago si veo un cargo en mi tarjeta que yo no hice,0.6933000404387712
+pgvector,10,como debe avisarme el banco de una compra sospechosa con mi tarjeta,0.6633000448346138
+pgvector,10,que significa tarjeta de debito,0.7821999024599791
+pgvector,10,cuanto plazo tienen los bancos para adecuarse a estos lineamientos,0.7464000955224037
